@@ -1,0 +1,5 @@
+sec.py file1 [file2] filen
+where file1-filen-1 - data files, filen - output file.
+
+sec2.py file1 [file2]
+where file1-filen - data files, output.txt - output file.
