@@ -1,0 +1,1 @@
+Файл third.c поместить в папку apps, там же в Makefile в строку TARGETS поместить third.efi, сделать make.
